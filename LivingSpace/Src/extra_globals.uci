@@ -9,5 +9,8 @@
 
 // Gamestate management helpers
 
+// X2MBC-Redefine
 `define SubmitGameState(state) `XCOMGAME.GameRuleset.SubmitGameState(`state);
+
+// X2MBC-Redefine
 `define CleanupGameState(state) `XCOMHISTORY.CleanupPendingGameState(`state);

@@ -5,9 +5,9 @@ strCrewSizeTitle="CREW"
 strCrewOverflowTitle=Crew Over Capacity
 strCrewOverflowHeader=Living Quarters
 strCrewOverflowDescription="The Avenger is holding more people that we can safely support, and some of our soldiers are sleeping on the floor. Morale is taking a hit and will recovery times are greater as a result. To resolve this situation, we should consider upgrading the Living Quarters (the room below the Commander's Quarters) to increase the Crew Limit or dismissing some non-essential personnel to lower our crew count."
-strCrewOverflowNoWorkshop="Alternatively we can dedicate an area to give separate quarters to our engineers.\nFacilities for engineers:\n<XGParam:StrValue0> "
-strCrewOverflowNoLaboratory="Alternatively we can dedicate an area to give separate quarters to our scientists.\nFacilities for scientists:\n<XGParam:StrValue1>"
-strCrewOverflowNeitherFacility="Alternatively we can dedicate an area to give separate quarters to our staff.\nFacilities for engineers:\n<XGParam:StrValue0> \nFacilities for scientists:\n<XGParam:StrValue1> "
+strCrewOverflowNoWorkshop="Alternatively we can build a dedicated facility that will provide separate quarters to our engineers (<XGParam:StrValue0>)"
+strCrewOverflowNoLaboratory="Alternatively we can build a dedicated facility that will provide separate quarters to our scientists (<XGParam:StrValue1>)"
+strCrewOverflowNeitherFacility="Alternatively we can build dedicated facilities that will provide separate quarters to our engineers (<XGParam:StrValue0>) and scientists (<XGParam:StrValue1>)"
 
 [LivingSpace_MCMScreen]
 ModName="Living Space"
